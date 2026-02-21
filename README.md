@@ -1,16 +1,42 @@
-## Hi there 👋
+# Francesco Picazio
 
-<!--
-**FrancescoPicazio/FrancescoPicazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on designing risk-aware, decision-oriented systems operating in complex and safety-critical environments.
 
-Here are some ideas to get you started:
+My work sits at the intersection of machine learning, system architecture, and product thinking. I do not treat models as isolated artifacts, but as components embedded within structured pipelines where data reliability, uncertainty estimation, and decision logic are engineered explicitly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the past years, I have worked across industrial AI and automotive software, combining hands-on model development with architectural definition and technical coordination. This hybrid background allows me to reason both at modeling level and at system level — from data ingestion to deployment and operational impact.
+
+---
+
+## Engineering Approach
+
+I build AI systems where:
+
+- Data pipelines are designed before models
+- Assumptions are made explicit
+- Uncertainty is modeled, not ignored
+- Decisions are risk-adjusted
+- Trade-offs are documented and intentional
+
+The objective is not prediction accuracy alone, but robustness, scalability, and real-world applicability.
+
+---
+
+## Selected Work
+
+**Risk-Aware AI Platform for Predictive Maintenance (WIP – industrial time-series dataset)**  
+End-to-end architecture for sensor ingestion, feature engineering, time-series modeling, anomaly detection, and risk-based decision layers.
+
+**S&P 500 ML Portfolio Optimizer (WIP)**  
+Quantitative system integrating signal extraction, regime detection, and risk-aware capital allocation within a structured portfolio framework.
+
+**Open-GYM**  
+Mobile application designed and architected end-to-end, combining clean React Native architecture with product ownership and iterative delivery.
+
+---
+
+## Technical Stack
+
+Python (TensorFlow, PyTorch, Scikit-Learn)
+
+CI/CD  ·  Docker  ·  SpringBoot  ·  React-Native
