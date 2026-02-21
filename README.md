@@ -30,8 +30,8 @@ End-to-end architecture for sensor ingestion, feature engineering, time-series m
 **S&P 500 ML Portfolio Optimizer (WIP)**  
 Quantitative system integrating signal extraction, regime detection, and risk-aware capital allocation within a structured portfolio framework.
 
-**Open-GYM**  
-Mobile application designed and architected end-to-end, combining clean React Native architecture with product ownership and iterative delivery.
+**n8n Assistant – AI Automation & Orchestration (WIP)**  
+System for orchestrating AI models and automated workflows through structured decision logic, multi-model integration, and task-level automation pipelines.
 
 ---
 
