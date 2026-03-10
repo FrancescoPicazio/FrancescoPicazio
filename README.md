@@ -22,21 +22,8 @@ The objective is not prediction accuracy alone, but robustness, scalability, and
 
 ---
 
-## Selected Work
-
-**Risk-Aware AI Platform for Predictive Maintenance (WIP – industrial time-series dataset)**  
-End-to-end architecture for sensor ingestion, feature engineering, time-series modeling, anomaly detection, and risk-based decision layers.
-
-**S&P 500 ML Portfolio Optimizer (WIP)**  
-Quantitative system integrating signal extraction, regime detection, and risk-aware capital allocation within a structured portfolio framework.
-
-**n8n Assistant – AI Automation & Orchestration (WIP)**  
-System for orchestrating AI models and automated workflows through structured decision logic, multi-model integration, and task-level automation pipelines.
-
----
-
 ## Technical Stack
 
-Python (TensorFlow, PyTorch, Scikit-Learn)
+Python (TensorFlow, PyTorch, Scikit-Learn, Keras)
 
 CI/CD  ·  Docker  ·  SpringBoot  ·  React-Native
